@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="WEBLABELLIB" local="true" sourceType="file" type="SCRIPT">
+<location category="ebs-function-libs" file="WEBLABELLIB" repository="OATS" type="repository"/>
+</asset>
+</assets>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="PROCLIB" local="true" primary="true" sourceType="file" type="OBJECTLIB">
+<location path="PROCLIB.properties" type="relative"/>
+</asset>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location category="ebs-function-libs" file="GENLIB" repository="OATS" type="repository"/>
+</asset>
+<asset alias="WEBTABLELIB" local="true" sourceType="file" type="SCRIPT">
+<location category="ebs-function-libs" file="WEBTABLELIB" repository="OATS" type="repository"/>
+</asset>
+</assets>

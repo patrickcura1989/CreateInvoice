@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../GENLIB" type="relative"/>
+</asset>
+<asset alias="WEBTABLELIB" local="true" sourceType="file" type="SCRIPT">
+<location category="ebs-function-libs" file="WEBTABLELIB" repository="OATS" type="repository"/>
+</asset>
+<asset alias="EBSCommon_1" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/EBSCommon.jar" type="relative"/>
+</asset>
+<asset alias="EBSGeneral_1" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/EBSGeneral.jar" type="relative"/>
+</asset>
+<asset alias="poi-37" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/poi-37.jar" type="relative"/>
+</asset>
+</assets>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="jta26" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/jta26.jar" type="relative"/>
+</asset>
+<asset alias="ebs-telnet-lib" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/ebs-telnet-lib.jar" type="relative"/>
+</asset>
+</assets>
