@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Script name="Create a interest invoice"><Initialize nameEncoded="true" name="SW5pdGlhbGl6ZQ==" type="basic.init"><Step nameEncoded="true" name="TGF1bmNoIEJyb3dzZXI="/></Initialize><Run nameEncoded="true" name="UnVu" type="basic.iteration"><Step nameEncoded="true" name="UnVuU2NyaXB0OiBnZXR0ZXh0dGVzdA==" type="basic.iteraterunScript"/></Run><Finish nameEncoded="true" name="RmluaXNo" type="basic.finish"/></Script>

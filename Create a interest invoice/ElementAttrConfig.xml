@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigElementAttributes>
+  <Element tag="button">
+    <Attribute name="name"/>
+    <Attribute name="id"/>
+    <Attribute name="value"/>
+    <Attribute name="disabled"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="div">
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="innerHtml"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="form">
+    <Attribute name="name"/>
+    <Attribute name="id"/>
+    <Attribute name="action"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="input">
+    <Attribute name="type"/>
+    <Attribute name="name"/>
+    <Attribute name="id"/>
+    <Attribute name="title"/>
+    <Attribute name="value"/>
+    <Attribute name="disabled"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+    <Attribute name="checked"/>
+    <Attribute name="src"/>
+  </Element>
+  <Element tag="label">
+    <Attribute name="for"/>
+    <Attribute name="htmlFor"/>
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="a">
+    <Attribute name="href"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="id"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="select">
+    <Attribute name="multiple"/>
+    <Attribute name="name"/>
+    <Attribute name="id"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="option">
+    <Attribute name="index"/>
+    <Attribute name="value"/>
+    <Attribute name="text"/>
+    <Attribute name="selected"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="span">
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="table">
+    <Attribute name="id"/>
+    <Attribute name="class"/>
+  </Element>
+  <Element tag="td">
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="textarea">
+    <Attribute name="name"/>
+    <Attribute name="id"/>
+    <Attribute name="value"/>
+    <Attribute name="disabled"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="tr">
+    <Attribute name="id"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="li">
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element>
+  <Element tag="img">
+    <Attribute name="src"/>
+  </Element>
+  <Element tag="ul">
+    <Attribute name="id"/>
+    <Attribute name="innerText" friendlyName="text"/>
+    <Attribute name="textContent" friendlyName="text"/>
+    <Attribute name="class"/>
+    <Attribute name="className"/>
+  </Element> 
+</ConfigElementAttributes>

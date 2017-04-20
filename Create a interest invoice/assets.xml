@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<assets> <asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT"><location category="ebs-function-libs" file="GENLIB" repository="OATS" type="repository"/></asset> <asset alias="WEBTABLELIB" local="true" sourceType="file" type="SCRIPT"><location category="ebs-function-libs" file="WEBTABLELIB" repository="OATS" type="repository"/></asset> <asset alias="EBSLibrary" local="true" sourceType="file" type="SCRIPT"><location category="ebs-function-libs" file="EBSLibrary" repository="OATS" type="repository"/></asset>
+</assets>
